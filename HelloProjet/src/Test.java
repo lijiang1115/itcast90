@@ -1,6 +1,7 @@
-public class Test {
+﻿public class Test {
     @org.junit.Test
     public void test(){
         System.out.println("测试");
+        System.out.println("测试90-3");
     }
 }
